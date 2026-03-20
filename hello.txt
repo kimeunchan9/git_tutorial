@@ -1,0 +1,3 @@
+First line
+Second line
+>>>>>>> 8a69356 (First commit from new_branch)
